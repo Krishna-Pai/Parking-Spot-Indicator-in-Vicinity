@@ -8,7 +8,7 @@ An automated slot booking system which can bring about a great change in the met
 Team Leader and Hardware Developer.  
 
 ## Category:   
-Funded (Research and Development Cell of KLE DR MSSCET).  
+Funded (Research and Development Cell of KLE DR.M S Sheshgiri College of Engineering and Technology, Belagavi).  
 
 ## Creators:
 1. Krishna Pai
